@@ -1,6 +1,3 @@
-#Pason DataHub                     Well Dossier No:    28542213
-#LAS - Log ASCII Standard         Report Generated:    2023-08-31 16:35:45MDT
-~VERSION INFORMATION
 VERS.                                          2.0:    CWLS LOG ASCII STANDARD - VERSION 2.0
 WRAP.                                           No:    ONE LINE PER DEPTH STEP
 ~WELL INFORMATION BLOCK
@@ -10,17 +7,8 @@ STRT.meters                                   0.20:    Start Depth
 STOP.meters                                5659.80:    Stop Depth
 STEP.meters                                   0.20:    Step Value
 NULL.                                      -999.25:    NULL Value
-COMP.                           Ovintiv Canada ULC:    Company
-WELL.                 OVV HZ 108 WEMBLEY 1-29-71-8:    Well
-FLD .                                      WEMBLEY:    Field
-LOC .                               05-31-071-08W6:    Location
 PROV.                                           AB:    Province
 CTRY.                                       Canada:    Country
-SRVC.             Precision Drilling, div of PDCLP:    Service Company
-DATE.                                             :    Date
-UWI .                        108/01-29-071-08W6/00:    Unique Well ID
-RIG .                                Precision 535:    Rig
-NUM .                                     28542213:    Well Dossier No
 ~CURVE INFORMATION
 #MNEM.UNIT                                 API CODE    CURVE DESCRIPTION
 #---------                                 --------    -----------------
